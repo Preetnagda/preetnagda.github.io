@@ -26,11 +26,15 @@ body,html{
 }
 .div_home{
     text-align: center;
-    color: white ;
+    color: white ;  
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .div_home h1{
     font-size:80px;
-    padding-top:25%;
+   
     font-family: 'Courier New' !important;
     /*letter-spacing: 2px;*/
     
@@ -38,7 +42,6 @@ body,html{
 .div_home p{
     font-size:30px;
     font-weight: 100;
-    
 }
 .start {
     background-size: cover;
@@ -51,7 +54,6 @@ body,html{
 }
 .ha{
     padding-left: 25px;
-
 }
 .about{
     text-align: center;
@@ -61,9 +63,7 @@ body,html{
     padding: 25px;
 }
 .about_title{
-   
    padding: 50px;
-   
 }
 .about_title h3{
     padding-top: 25px;
