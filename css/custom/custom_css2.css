@@ -1,0 +1,85 @@
+
+body,html{
+    height:100%;
+}
+.logo{
+    padding-bottom:5px;
+    margin: 0 5px;
+}
+.transclass{
+	background: rgba(0,0,0,0.25) !important;
+}
+.brand{
+    font-family: 'Courier New' !important;
+}
+.main{
+    height:80%;
+    background-size: cover;
+    background-image: url("home3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+}
+.cus_fc{
+    height: 30px !important;
+    max-width: 200px;
+}
+.div_home{
+    text-align: center;
+    color: white ;
+}
+.div_home h1{
+    font-size:80px;
+    padding-top:25%;
+    font-family: 'Courier New' !important;
+    /*letter-spacing: 2px;*/
+    
+}
+.div_home p{
+    font-size:30px;
+    font-weight: 100;
+    
+}
+.start {
+    background-size: cover;
+    background-image: url("home1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.jumbotron{
+    font-family: Garamond;
+}
+.ha{
+    padding-left: 25px;
+
+}
+.about{
+    text-align: center;
+    max-width: 500px;
+}
+.about p{
+    padding: 25px;
+}
+.about_title{
+   
+   padding: 50px;
+   
+}
+.about_title h3{
+    padding-top: 25px;
+    
+}
+.card 
+{
+    margin: auto;
+}
+.blogs{
+     text-align: center;
+}
+.black{
+    background-color: black;
+}
+
+footer{
+    color: grey !important;
+}

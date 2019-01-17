@@ -1,0 +1,46 @@
+
+body,html{
+    height:100%;
+}
+.logo{
+    padding-bottom:5px;
+    margin: 0 5px;
+}
+.transclass{
+	background: rgba(0,0,0,0.25) !important;
+}
+.brand{
+    font-family: 'Courier New' !important;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    color: black !important;
+    box-shadow: 1px 1px 1px 1px;
+    height: 1600px;
+    border-radius:2px;
+}
+.cus_fc{
+    height: 30px !important;
+    max-width: 200px;
+}
+.div_home h1{
+    font-size:50px;
+    max-width: 800px; 
+    font-family: sans-serif !important;
+    letter-spacing: 2px;
+
+}
+.div_home p{
+    font-size:20px;
+}
+.start {
+    background-size: cover;
+    background-image: url("home1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.jumbotron{
+    font-family: Garamond;
+}
