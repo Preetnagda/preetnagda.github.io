@@ -2,10 +2,6 @@
 body,html{
     height:100%;
 }
-.logo{
-    padding-bottom:5px;
-    margin: 0 5px;
-}
 .transclass{
 	background: rgba(0,0,0,0.25) !important;
 }
@@ -28,16 +24,13 @@ body,html{
     text-align: center;
     color: white ;  
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .div_home h1{
     font-size:80px;
-   
     font-family: 'Courier New' !important;
-    /*letter-spacing: 2px;*/
-    
 }
 .div_home p{
     font-size:30px;
@@ -49,12 +42,6 @@ body,html{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.jumbotron{
-    font-family: Garamond;
-}
-.ha{
-    padding-left: 25px;
-}
 .about{
     text-align: center;
     max-width: 500px;
@@ -63,7 +50,7 @@ body,html{
     padding: 25px;
 }
 .about_title{
-   padding: 50px;
+   padding: 30px;
 }
 .about_title h3{
     padding-top: 25px;

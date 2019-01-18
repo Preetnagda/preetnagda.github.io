@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    
+    $(window).scrollTop();
         $("#divHome").fadeIn();
         $("#aboutme").on('click', function (event) {
             if (this.hash !== "") {
